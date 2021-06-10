@@ -2,7 +2,7 @@
 
 Here is the [Reposity](https://github.com/kushal1999seemakurthi/Deep_Learning/tree/main/projects/face_emotion_detection) of this project.
 
-### We here used Opencv to cature face :
+## We here used Opencv to cature face :
 
 #### using Cam
 #### using Screen capturing
