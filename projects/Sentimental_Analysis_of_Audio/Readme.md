@@ -7,7 +7,7 @@
 * In addition to that library we used tensorflows framework to deploy DL models along with that numpy also been extensively used.
 
 * Using a librosa we extracted audio data into MFCCs of matrices of 54 X 44
-## Later to train the planning models where deployed several models such as LSTM model, CNN model, LSTM + CNN model.
+#### Later to train the planning models where deployed several models such as LSTM model, CNN model, LSTM + CNN model.
 Results are also attached below.
 
 Results from the attached models can be map by using the following list
