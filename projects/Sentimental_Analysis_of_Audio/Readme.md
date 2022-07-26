@@ -12,7 +12,7 @@ To classify the Emotion of the given Audio.
  
 #### Specifications of the data and Model
  
- With asistance of Librosa Audio can be modelled into MFCCs of matrices of 55 X 44. Processed matrices could be further used as Inputs for various DL models. In this expercise models like LSTM model, CNN model, LSTM + CNN model were used.
+ With asistance of Librosa Audio can be modelled into MFCCs of matrices of 55 X 44. Processed matrices could be further used as Inputs for various DL models. In this exercise models like LSTM model, CNN model, LSTM + CNN model were used.
  
 * Here is the mapping for the model predictions:
  ```python
