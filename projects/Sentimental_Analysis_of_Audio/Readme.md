@@ -2,13 +2,19 @@
 
 ### Download it from here: [Repository](https://github.com/kushal1999seemakurthi/Deep_Learning/tree/main/projects/Sentimental_Analysis_of_Audio)
 
-* For this project I used a data set, which contains eight types of emotional audio.
-* In this project we have used buch of libraries but one of the main libraries used is Librosa
-* In addition to that library we used tensorflows framework to deploy DL models along with that numpy also been extensively used.
-
-* Using a librosa we extracted audio data into MFCCs of matrices of 54 X 44
-### Later to train, the planning models were deployed such as LSTM model, CNN model, LSTM + CNN model.
-Results are also attached below.
-
-Results from the attached models can be map by using the following list
-* 'mapping' : ['neutral', 'calm', 'happy', 'sad', 'angry', 'fearful', 'disgust', 'surprise']
+### **Aim:**
+ 
+To classify the Emotion of the given Audio.
+ 
+### **Description:**
+ 
+**Data** used has 8 categories of Emotions. For the Audio processing purpose library  **Librosa** used along with *numpy* to model the data according to the requirements. **Tensorflow** framework was used to build and train DL models for the classification.
+ 
+#### Specifications of the data and Model
+ 
+ With asistance of Librosa Audio can be modelled into MFCCs of matrices of 55 X 44. Processed matrices could be further used as Inputs for various DL models. In this expercise models like LSTM model, CNN model, LSTM + CNN model were used.
+ 
+* Here is the mapping for the model predictions:
+ ```python
+ mapping : ['neutral', 'calm', 'happy', 'sad', 'angry', 'fearful', 'disgust', 'surprise']
+```
