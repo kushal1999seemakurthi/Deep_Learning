@@ -1,6 +1,6 @@
 # Sentimental Analysis on Audio Data
 
-### Download it from here: [Reposity](https://github.com/kushal1999seemakurthi/Deep_Learning/tree/main/projects/Sentimental_Analysis_of_Audio)
+### Download it from here: [Repository](https://github.com/kushal1999seemakurthi/Deep_Learning/tree/main/projects/Sentimental_Analysis_of_Audio)
 
 * For this project I used a data set, which contains eight types of emotional audio.
 * In this project we have used buch of libraries but one of the main libraries used is Librosa
