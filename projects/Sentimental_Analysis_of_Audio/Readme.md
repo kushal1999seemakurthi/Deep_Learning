@@ -16,5 +16,5 @@ To classify the Emotion of the given Audio.
  
 * Here is the mapping for the model predictions:
  ```python
- mapping : ['neutral', 'calm', 'happy', 'sad', 'angry', 'fearful', 'disgust', 'surprise']
+ mapping = ['neutral', 'calm', 'happy', 'sad', 'angry', 'fearful', 'disgust', 'surprise']
 ```
